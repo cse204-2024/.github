@@ -1,1 +1,1 @@
-# .github
+# CSE204 Morning Section
